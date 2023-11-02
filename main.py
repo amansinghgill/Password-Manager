@@ -36,6 +36,7 @@ def save():
                 #Saving updated data
                 json.dump(data, data_file, indent=4)
         finally:
+            messagebox.showinfo(title="Success", message="Your credentials have been saved.")
             website_entry.delete(0, END)
             email_entry.delete(0, END)
             password_entry.delete(0, END)
