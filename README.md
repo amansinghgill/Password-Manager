@@ -1,5 +1,9 @@
 # Password Manager
 
+<p align="center">
+  <img src="./logo.png" alt="Logo">
+</p>
+
 This is password manager application built using Python, with a graphical user interface (GUI) built using the tkinter library. This password manager allows users to securely store and retrieve website login credentials, as well as generate strong passwords. 
 The application stores data in a JSON file.
 
