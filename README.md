@@ -39,9 +39,7 @@ Follow these steps to set up and run the Password Manager on your local machine:
    pip install -r requirements.txt
    ```
 
-4. **Add Your Logo**: Replace the `logo.png` file in the project directory with your own logo or leave it as is. This image will be displayed in the application.
-
-5. **Run the Application**: To start the Password Manager, run the following command in your terminal:
+4. **Run the Application**: To start the Password Manager, run the following command in your terminal:
 
    ```bash
    python password_manager.py
