@@ -52,6 +52,4 @@ Follow these steps to set up and run the Password Manager on your local machine:
 7. **Data Storage**: Passwords and website information will be stored in a `data.json` file in the project directory.
 
 That's it! You've successfully set up and can now use the Password Manager to manage your passwords securely.
-```
 
-Make sure to replace `"your-username"` in step 1 with your actual GitHub username if it's a public repository.
